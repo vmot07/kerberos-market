@@ -4,11 +4,11 @@ Kerberos Market prides itself on providing a high quality service through fast s
 ## Kerberos Market Link:
 
 ```sh
-http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion
+http://kerberos7re4xjwjrrr6ndawkj3ulimuuaqzip3xc2gwtpyd4pwdhkid.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion/)
+[<img src="/assets/visit-market.webp" width="200">](http://kerberos7re4xjwjrrr6ndawkj3ulimuuaqzip3xc2gwtpyd4pwdhkid.onion/)
 
-<a href="http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion"><img src="/assets/kerberos-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://kerberos7re4xjwjrrr6ndawkj3ulimuuaqzip3xc2gwtpyd4pwdhkid.onion"><img src="/assets/kerberos-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 ## About Kerberos Market
 Welcome to your first steps towards exploring Kerberos Market! We're delighted to offer you an unrivalled darknet shopping experience. It's been over two years since we launched, but don't worry, we're not going anywhere. We're going to keep growing, improving and maintaining our high standards for many years to come. Who knows, maybe forever! We think we’re making a difference in this dark world, and we’re sure you’ll want to join the world’s most exclusive darknet community!
@@ -18,4 +18,4 @@ Welcome to your first steps towards exploring Kerberos Market! We're delighted t
 To create an account, you must provide a unique username (not associated with any of your prior login credentials), password (we recommend a random string of letters, numbers, and special symbols) entered twice, and a 6-digit withdrawal PIN. It’s also a good idea to enter an anti-phishing phrase. This phrase will appear each time you log in to the market as a way of letting you know you are on a valid mirror, and not a phishing site.
 
 
-<a href="http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion"><img src="/assets/kerberos-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion"><img src="/assets/kerberos-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://kerberos7re4xjwjrrr6ndawkj3ulimuuaqzip3xc2gwtpyd4pwdhkid.onion"><img src="/assets/kerberos-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://kerberos7re4xjwjrrr6ndawkj3ulimuuaqzip3xc2gwtpyd4pwdhkid.onion"><img src="/assets/kerberos-register.webp" alt="image" style="max-width: 100%;"><a>
