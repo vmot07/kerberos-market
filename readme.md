@@ -10,6 +10,8 @@ http://kerberos7re4xjwjrrr6ndawkj3ulimuuaqzip3xc2gwtpyd4pwdhkid.onion
 
 <a href="http://kerberos7re4xjwjrrr6ndawkj3ulimuuaqzip3xc2gwtpyd4pwdhkid.onion"><img src="/assets/kerberos-preview.webp" alt="image" style="max-width: 100%;"><a>
 
+This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
+
 ## About Kerberos Market
 Welcome to your first steps towards exploring Kerberos Market! We're delighted to offer you an unrivalled darknet shopping experience. It's been over two years since we launched, but don't worry, we're not going anywhere. We're going to keep growing, improving and maintaining our high standards for many years to come. Who knows, maybe forever! We think we’re making a difference in this dark world, and we’re sure you’ll want to join the world’s most exclusive darknet community!
 
